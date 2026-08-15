@@ -8,7 +8,7 @@ JobJugaadu AI is an AI-powered phone-call agent that helps discover hidden local
 
 ## 🎥 Demo Video
 
-> 🎬 **Video coming soon!** I'm currently recording a walkthrough of JobJugaadu AI in action. Check back shortly, or follow me on [Twitter/X](https://x.com/vishalsingh2972) to get notified when it's live.
+https://github.com/user-attachments/assets/76e0c650-03b5-44af-8dbb-a83c027128d8
 
 ---
 
