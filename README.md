@@ -434,11 +434,6 @@ I'm passionate about **AI, Voice Technology, and Developer Relations**. Let's co
 | **Twitter/X** | [x.com/vishalsingh2972](https://x.com/vishalsingh2972) |
 | **LinkedIn** | [linkedin.com/in/vishalsingh2972](https://linkedin.com/in/vishalsingh2972) |
 
-### My Other Projects
-
-- 🏛️ **[Bolna India](https://github.com/vishalsingh2972)** — Voice-first government form filling in Telugu
-- ❤️ **[Dear Comrade](https://github.com/vishalsingh2972)** — AI-powered health link for NRI children and aging parents
-
 ---
 
 ## ⭐ Support
